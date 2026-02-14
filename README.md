@@ -1,5 +1,5 @@
 
-![Uploading Blue and Neon Green Minimalist Sky Vintage TV Hip-hop Album Cover.jpg…]()
+
 
 # 💫 About Me:
 🔭 I’m currently working on strengthening my Data Structures and building small frontend projects.<br><br>👯 I’m looking to collaborate on beginner-friendly web or Python projects.<br><br>🤝 I’m looking for help with writing clean code and understanding real-world project structure.<br><br>🌱 I’m currently learning Data Structures in Python and improving my SQL skills.<br><br>💬 Ask me about Python basics, HTML, CSS, and beginner programming concepts.<br><br>⚡ Fun fact: Started from zero and building my tech journey step by step 🚀<br>
